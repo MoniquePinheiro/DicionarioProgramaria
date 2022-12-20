@@ -21,6 +21,8 @@ function carregaDicionario() {
       imagem: "./img/angela-davis.png",
       descricao:
         "Angela Yvonne Davis é uma professora e filósofa socialista estado-unidense que alcançou notoriedade mundial na década de 1970 como integrante do Partido Comunista dos Estados Unidos, dos Panteras Negras, por sua militância pelos direitos das mulheres e contra a discriminação social e racial nos Estados Unidos e por ser personagem de um dos mais polêmicos e famosos julgamentos criminais da recente história dos Estados Unidos.",
+    citacao:
+        "Não aceito mais as coisas que não posso mudar, estou mudando as coisas que não posso aceitar."
     },
     bio04: {
       nome: "Conceição Evaristo",
